@@ -14,9 +14,10 @@ z-index: -1;
 }
 .bottom-img{
   transform: rotate(-70deg);
-    position: fixed;
+    position: absolute;
     top: 12.5rem;
     left: 55vw;
+  overflow: hidden;
     z-index: -1;
 }
 .mid-box{
